@@ -1,0 +1,25 @@
+{
+  "name": "prettier-config-cheungray",
+  "version": "1.0.0",
+  "description": "cheungray自用prettier配置",
+  "main": ".prettierrc.json",
+  "files":[
+    ".prettierrc.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/cheungray123/prettier-config-cheungray.git"
+	},
+  "keywords": [
+		"prettier-config",
+		"prettier-config-cheungray",
+		"cheungray-config",
+		"markdown",
+		"cheungray"
+	],
+  "author": "cheungray",
+  "license": "ISC"
+}
