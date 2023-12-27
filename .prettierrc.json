@@ -17,27 +17,5 @@
   "singleQuote": true,
   "tabWidth": 4,
   "trailingComma": "none",
-  "useTabs": true,
-  "overrides": [
-    {
-      "files": ["*.json5"],
-      "options": {
-        "singleQuote": false,
-        "quoteProps": "preserve"
-      }
-    },
-    {
-      "files": ["*.md"],
-      "options": {
-        "useTabs": true,
-        "tabWidth": 2
-      }
-    },
-    {
-      "files": ".prettierrc",
-      "options": {
-        "parser": "json"
-      }
-    }
-  ]
+  "useTabs": true
 }
